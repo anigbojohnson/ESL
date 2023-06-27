@@ -1,0 +1,13 @@
+Librarian Id:ENUG1222
+Librarian Name:pascal ugwu esien
+Password:Sonship123
+Librarian Type:main
+Email:pascal@gmail.com
+Phone Number:09018237365
+Gender:
+Address:no 5 excel street
+DOB:2020-04-17
+City:ihiala
+State:Abia
+Image:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJUAAACVCAMAAABmfEh9AAAAt1BMVEUAYrYHBQQAaboGBAEDBAEDAwAEBAJHcEwDAwADAwAEBQIATZqmRwCxTwC5VgCHMwAAW6uOOAADBAJ7LAACWp+XPwBqJgAAY7YFBwTAXQBsKgAACRQAQ4fJYAABNW8AOnhyLwAAVZgBCBNPHwDB0iZYHgBhwl1CFwDTYwABDRkBHTUgDAA2
+Name:download.jpg

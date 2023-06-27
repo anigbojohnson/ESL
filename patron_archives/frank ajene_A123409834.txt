@@ -1,0 +1,12 @@
+Passport Number:A123409834
+Patron_Name:frank ajene
+Password:12345
+Gender:male
+Phone Number:09123122233
+Address:no 5 ajene street
+Email:aguAjene@gmail.com
+City:Oji-river
+State:Enugu
+DOB:2020-05-29
+Name:agu frank.jpg
+Image:data:image/jpg;base64,

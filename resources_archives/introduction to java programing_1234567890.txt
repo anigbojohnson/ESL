@@ -1,0 +1,11 @@
+ISBN:1234567890
+ISSN:1234567812
+Title:introduction to java programing
+Publication Date:2020-04-11
+Author:d.s malik
+Call Number:12345678
+Language:english
+Quntity:12
+Replacement Cost:1200
+Borrowing Duration:12
+Barcode:2147483647

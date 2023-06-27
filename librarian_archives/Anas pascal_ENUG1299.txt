@@ -1,0 +1,13 @@
+Librarian Id:ENUG1299
+Librarian Name:Anas pascal
+Password:Sonship123
+Librarian Type:main
+Email:anas@gmail.com
+Phone Number:09012345679
+Gender:male
+Address:no 4 tesla street
+DOB:2020-04-22
+City:katsina
+State:Katsina
+Image:data:image/jpg;base64,
+Name:jonas james.jpg

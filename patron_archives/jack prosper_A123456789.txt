@@ -1,0 +1,12 @@
+Passport Number:A123456789
+Patron_Name:jack prosper
+password : Sonship123
+Gender:male
+Phone Number:09016238929
+Address:no 5 jericho
+Email:anigbff@gmail.com
+City:2020-05-08
+State:Kano
+DOB:0000-00-00
+Name:kenn.jpg
+Image:data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUQEhIVFRUVFRUVFRUXFRUXFRgXFxUWFhUVFRUYHSggGBolHRcVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OFxAQFy0dGB0rLS0tLSstLS0tLS0tLS0tKy0tKystLS0tKy0tLS0rLS0tKzctLTctLS03LSsrLTctK//AABEIAQAAxQMBIgACEQEDEQH/

@@ -1,0 +1,13 @@
+Librarian Id:ENUG3388
+Librarian Name:james adah
+Password:Sonship123
+Librarian Type:Main_librarian
+Email:samegwu@gmail.com
+Phone Number:09012345678
+Gender:male
+Address:no 4 sam egwu street
+DOB:0000-00-00
+City:etinan
+State:Akwa Ibom
+Image:data:image/jpg;base64,
+Name:james ameh.jpg
