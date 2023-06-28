@@ -1,4 +1,4 @@
-# ESL
+# Abstract
 
 This project is designed to develop a library system which is meant to replace mainly most of the 
 manual activities being carried out by user in Library. The purpose of 
@@ -33,6 +33,7 @@ The system is divided into two parts and they are:
 1.	Librarian Area
 
 ❖	Login
+
 They are two kind of librarian, the main librarian and other librarian. The main librarian can add librarian but other librarian cannot. The librarian can login through this page by selecting either as main or other librarian. Then they can provide their login id and password number to login to their account. If these details are incorrect the user will be asked to furnish it with correct one.
 
 
@@ -42,6 +43,7 @@ They are two kind of librarian, the main librarian and other librarian. The main
 1.0 Librarian Login Page
  
 ❖	Librarian profile
+
 This page as you can see display the details of librarian that just login to the system. when the librarian login he can click the button Due Date to send email to all patrons which have to return books due that day.
 
 ![image](https://github.com/anigbojohnson/ESL/assets/64017426/1ea68808-5611-4550-b529-b8d34285f197)
@@ -49,12 +51,15 @@ This page as you can see display the details of librarian that just login to the
 1.1	Profile page for librarian
  
 ❖	Add patron
+
 The librarian is the one in charge of registering patron, this he does by entering detail of patron in his international passport. But if it is a patron have been deleted from system, the librarian can enter the patron passport number on this page and it will be retrieved from archive to the system.
 
-
+![image](https://github.com/anigbojohnson/ESL/assets/64017426/60abcdd2-ca66-4894-a505-a8c33f4a7c43)
  
 1.2	Add patrons page
+
 ❖	View patron
+
 The patron available in the system will be displayed here. Through this page the librarian can search for any patron he/she wants according to the matching criteria. The criteria can be the patron name, passport number, gender, etc.
 
 1.3	view patrons page
