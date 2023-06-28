@@ -25,7 +25,11 @@ These outlines the functions which this project provides:
 5. Patron to view borrowing history
 6. Search book available in the system
 
+
+
  GUI for the system
+
+ 
 The system is divided into two parts and they are:
 1.	Librarian Area
 2.	Patron Area
@@ -43,6 +47,7 @@ They are two kind of librarian, the main librarian and other librarian. The main
 
 1.0 Librarian Login Page
 
+
  
 ❖	Librarian profile
 
@@ -51,6 +56,7 @@ This page as you can see display the details of librarian that just login to the
 ![image](https://github.com/anigbojohnson/ESL/assets/64017426/1ea68808-5611-4550-b529-b8d34285f197)
 
 1.1	Profile page for librarian
+
 
  
 ❖	Add patron
@@ -62,6 +68,7 @@ The librarian is the one in charge of registering patron, this he does by enteri
 1.2	Add patrons page
 
 
+
 ❖	View patron
 
 The patron available in the system will be displayed here. Through this page the librarian can search for any patron he/she wants according to the matching criteria. The criteria can be the patron name, passport number, gender, etc.
@@ -69,6 +76,7 @@ The patron available in the system will be displayed here. Through this page the
 ![image](https://github.com/anigbojohnson/ESL/assets/64017426/1a83e576-be43-48cc-aa1d-feb304f16259)
 
 1.3	view patrons page
+
 
  
 ❖	Update patron
@@ -79,6 +87,8 @@ When librarian select update button in the preceding view page figure 4-Error! N
 
  
 1.4	Update Patron page
+
+
 
 ❖	Add librarian
 
@@ -98,6 +108,7 @@ The main librarian can view details of every librarian in the system and he can 
 1.6	View Librarian Page
 
 
+
 ❖	Update librarian
 
 From this page the main librarian can update other librarian details.
@@ -105,6 +116,7 @@ From this page the main librarian can update other librarian details.
 ![image](https://github.com/anigbojohnson/ESL/assets/64017426/6896aff7-320e-4b2b-98cd-5276f667c81d)
 
  1.7	Update Librarian Page
+
 
 
 ❖	Add Manage Resources
@@ -115,6 +127,8 @@ This page allows librarian to enter book details to book catalogue. The details 
 
 1.8	Add books resources to catalogue
 
+
+
 ❖	View Resources:
 
  Displays all book available in the system. the librarian can access this page through add catalogue page. This page provides search 
@@ -124,12 +138,16 @@ This page allows librarian to enter book details to book catalogue. The details 
 
  1.9	View Catalogue page
 
+
+
  
 ❖	Update catalogue
 
 ![image](https://github.com/anigbojohnson/ESL/assets/64017426/bfd85599-aad2-410e-8be6-1def81a2e824)
 
 1.10	Update Catalogue Page
+
+
 
  
 ❖	Check in book
@@ -141,6 +159,7 @@ For check in of books, librarian can enter patron passport number and ISBN numbe
 1.11	Check in page
 
 
+
 ❖	Search and login page
 
 This page has search textbox that allow user to search for books of their choice according to books matching criteria. the criteria can be according to title, author, ISSN, ISBN etc. then they can enter book details according to the criteria they selected. This page can be accessed by any person without login. In order to login, the patron must first subscribe and then will enter their international number and password to login to their personal account through this page. For book reservation, the reserve link attached to each book help patron to make reservation.
@@ -148,6 +167,7 @@ This page has search textbox that allow user to search for books of their choice
 
  
 2.	Patron Area
+
 
 ![image](https://github.com/anigbojohnson/ESL/assets/64017426/67271e11-e13b-4a00-9ac8-23ec8b110deb)
 
