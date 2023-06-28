@@ -1,7 +1,7 @@
 # ESL
 
 This project is designed to develop a library system which is meant to replace mainly most of the 
-manual activities being carried out by user in my state Enugu Nigeria. The purpose of 
+manual activities being carried out by user in Library. The purpose of 
 implementing such system is to meet the needs of patrons and librarian for such a system. The 
 main objectives of this project are for patron to be able to check-in and checkout books and other 
 material from the library on their own, the patron can use the search function to view catalog of 
@@ -17,7 +17,7 @@ understand their need.
 
 
 
-This are few outlines of functions that this project provides:
+These outlines the functions which this project provides:
 1. Book Check-in, checkout, reserve and renew 
 2. Make payment: subscription, overdue book, and lost book
 3. Add, update patron, librarian and book catalogue details
